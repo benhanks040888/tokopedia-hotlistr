@@ -11,6 +11,18 @@ body {
   text-align: center;
 }
 
+.nav a {
+  color: #232323;
+  text-decoration: none;
+  text-transform: uppercase;
+  margin: 0 1rem;
+}
+
+.nav a:hover,
+.nav a.active {
+  color: #64B257;
+}
+
 .page-heading {
   text-align: center;
   margin:  3rem 0;
