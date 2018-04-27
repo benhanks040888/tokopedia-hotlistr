@@ -9,7 +9,7 @@ import { BrowserRouter as Router, Route, NavLink } from 'react-router-dom';
 // import { CSSTransition } from 'react-transition-group';
 
 import Home from './Home';
-const Saved = () => <h1>Saved</h1>;
+import Saved from './Saved';
 
 // import Card from './Card';
 // import Button from './Button';
